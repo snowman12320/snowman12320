@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm william 👋
+
+![snowman12320's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowman12320&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowman12320&layout=compact&theme=dark)
