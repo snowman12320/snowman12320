@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **snowman12320/snowman12320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +15,19 @@ Here are some ideas to get you started:
 
 # Hi, I'm william 👋
 
+I'm a developer who loves coding, pets, and open source.
+
+## GitHub Stats
 ![snowman12320's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowman12320&show_icons=true&theme=dark&count_private=true)
+
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowman12320&layout=compact&theme=dark)
+
+## 🔭 Currently working on
+- stream service
+- medical sysyem
+- course platform
+- AI adusting
+
+## 📫 How to reach me
+- Email: snowman12320@gmail.com
