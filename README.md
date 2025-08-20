@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a developer who loves coding, pets, and open source.
 
 ## GitHub Stats
-![snowman12320's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowman12320&show_icons=true&theme=dark&count_private=true)
+![snowman12320's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowman12320&show_icons=true&theme=dark&count_private=false)
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowman12320&layout=compact&theme=dark)
