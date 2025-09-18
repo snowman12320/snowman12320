@@ -23,6 +23,9 @@ I'm a developer who loves coding, pets, and open source.
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowman12320&layout=compact&theme=dark)
 
+## My toolbox
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,materialui,tailwind,bootstrap,scss,redux,prisma,docker,figma,firebase,nestjs,mongodb,aws,ps,illustrator&perline=5&theme=dark)](https://skillicons.dev)
+
 ## 🔭 Currently working on
 - stream service
 - medical sysyem
